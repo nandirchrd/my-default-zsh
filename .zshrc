@@ -3,4 +3,4 @@ plugins=(
   git	
   zsh-syntax-highlighting
 )
-source ~/oh-my-zsh/oh-my-zsh.sh
+source ~/.oh-my-zsh/oh-my-zsh.sh
