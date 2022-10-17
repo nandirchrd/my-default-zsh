@@ -7,7 +7,7 @@ mv ~/my-default-zsh/.zshrc ~/
 mv ~/my-default-zsh/font.ttf ~/.termux
 mv ~/my-default-zsh/colors.properties ~/.termux
 rm -rf ~/my-default-zsh
-rm $PREFIX/etc/apt/motd
-rm $PREFIX/etc/apt/motd.dpkg-dist
+rm $PREFIX/etc/motd
+rm $PREFIX/etc/motd.dpkg-dist
 termux-reload-settings
 clear && login
